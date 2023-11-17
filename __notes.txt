@@ -1,0 +1,2 @@
+local:  http://localhost:5000
+live:   https://car-doctor-server-with-jwt-recap.vercel.app
